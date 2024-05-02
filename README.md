@@ -5,7 +5,7 @@
 ---
 </div>
 
-## ✨ I'm a Full Stack Software Engineer,  E-commerce Business Owner and former Banker.
+## ✨ I'm a Full Stack Software Engineer,  e-commerce Business Owner and former Banker.
 
 <br />
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📬 Connect with me:
+## 📬 Connect with me
 <br />
 <p>
   <a href='https://www.linkedin.com/in/floralz/' target='_blank'>

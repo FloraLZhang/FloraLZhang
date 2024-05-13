@@ -9,7 +9,6 @@
 
 <br />
 
-- 🌸 Currently practicing Next.js and learning Go.
 - 🌱 Improved my skills in intermediate full-stack development through Galvanize's program Hackreactor.
 - ☀️ Eager to collaborate on diverse projects with fellow enthusiasts.
 - 💌 Feel free to inquire about any topic.
